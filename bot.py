@@ -1,1 +1,1 @@
-# telegram bot main script
+# placeholder for bot.py
